@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bogaluix32
-- 👀 I’m interested in software development / data science / cybersecurity and more...
-- 🌱 I’m currently learning Information Technology Administration
+- 👀 I’m interested in software development / data science / cybersecurity / machine learning and IA
+- 🌱 I’m currently learning Information Technology Administration 
+- 🌱 I’m improving my knowledge in programming languages such as Python and C
 - 💞️ I’m looking to collaborate on technological projects
 - 📫 How to reach me on email: luisjimenez.contacto@gmail.com
 
