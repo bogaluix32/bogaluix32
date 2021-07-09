@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Information Technology Administration 
 - 🌱 I’m improving my knowledge in programming languages such as Python and C
 - 💞️ I’m looking to collaborate on technological projects
-- 📫 How to reach me on email: luisjimenez.contacto@gmail.com
+- 📫 How to reach me on email: bogaluix.contacto@gmail.com
 
 <!---
 bogaluix32/bogaluix32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
