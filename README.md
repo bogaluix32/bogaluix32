@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bogaluix32
 - 👀 I’m interested in software development / data science / cybersecurity / machine learning and IA
 - 🌱 I’m currently learning Information Technology Administration 
-- 🌱 I’m improving my knowledge in programming languages such as Python and C
+- 🌱 I’m improving my knowledge in programming with C# and ASP.NET Framework
 - 💞️ I’m looking to collaborate on technological projects
 - 📫 How to reach me on email: bogaluix.contacto@gmail.com
 
